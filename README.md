@@ -1,4 +1,4 @@
-# Unity-echo3D-Demo-RollerBallPark
+# Unity-echo3D-Demo-WhatToWear
 Do you have decision fatigue over what to wear in the morning? Let this app pick your clothes for you.
 
 ## Version
