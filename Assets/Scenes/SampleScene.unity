@@ -163,12 +163,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 126963533}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbf1207ab2260994aa98cbfa9f61c3a3, type: 3}
+  m_Script: {fileID: 11500000, guid: b9d8e65c606514046beb1e5c874892db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  APIKey: 
-  Entries: 
-  Tags: 
+  apiKey: <YOUR_API_KEY>
+  entries: 
+  tags: 
+  editorPreview: 0
+  queryURL: 
+  queryOnly: 0
+  disableRemoteTransformations: 0
+  ignoreModelTransforms: 0
 --- !u!1001 &131817163
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -283,12 +288,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 416235873}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbf1207ab2260994aa98cbfa9f61c3a3, type: 3}
+  m_Script: {fileID: 11500000, guid: b9d8e65c606514046beb1e5c874892db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  APIKey: 
-  Entries: 
-  Tags: 
+  apiKey: <YOUR_API_KEY>
+  entries: 
+  tags: 
+  editorPreview: 0
+  queryURL: 
+  queryOnly: 0
+  disableRemoteTransformations: 0
+  ignoreModelTransforms: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -950,12 +960,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1846698702}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbf1207ab2260994aa98cbfa9f61c3a3, type: 3}
+  m_Script: {fileID: 11500000, guid: b9d8e65c606514046beb1e5c874892db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  APIKey: 
-  Entries: 
-  Tags: 
+  apiKey: <YOUR_API_KEY>
+  entries: 
+  tags: 
+  editorPreview: 0
+  queryURL: 
+  queryOnly: 0
+  disableRemoteTransformations: 0
+  ignoreModelTransforms: 0
 --- !u!1 &1976974229
 GameObject:
   m_ObjectHideFlags: 0
@@ -996,12 +1011,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1976974229}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbf1207ab2260994aa98cbfa9f61c3a3, type: 3}
+  m_Script: {fileID: 11500000, guid: b9d8e65c606514046beb1e5c874892db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  APIKey: 
-  Entries: 
-  Tags: 
+  apiKey: <YOUR_API_KEY>
+  entries: 
+  tags: 
+  editorPreview: 0
+  queryURL: 
+  queryOnly: 0
+  disableRemoteTransformations: 0
+  ignoreModelTransforms: 0
 --- !u!1 &2083551856
 GameObject:
   m_ObjectHideFlags: 0
